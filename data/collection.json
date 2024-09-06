@@ -1,5 +1,7 @@
 {
   "name": "example_collection",
-  "distance": "Cosine",
-  "vector_size": 512
+  "vectors": {
+    "distance": "Cosine",
+    "size": 512
+  }
 }
